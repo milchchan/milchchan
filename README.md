@@ -1,4 +1,4 @@
-### Hello, world!
+### Hello, world! 🌟
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milchchan&layout=compact)
 
